@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Info Covid Indonesia</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">About</string>
+    <string name="hero_image">Hero Image</string>
+</resources>
